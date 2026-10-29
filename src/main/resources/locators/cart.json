@@ -1,0 +1,7 @@
+{
+  "cartItemByName": "xpath=//div[@class='cart_item']",
+  "removeProductButton": "xpath=.//button[contains(@id,'remove')]",
+  "cartItems": "xpath=//div[@class='cart_item']",
+  "removeProductButton": "xpath=.//button[contains(@id,'remove')]",
+  "checkoutButton": "xpath=//button[@id='checkout']"
+}

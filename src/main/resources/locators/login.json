@@ -1,0 +1,7 @@
+{
+  "loginPageTitle": "xpath=//div[@class='login_logo']",
+  "usernameField": "xpath=//input[@id='user-name']",
+  "passwordField": "xpath=//input[@id='password']",
+  "loginButton": "xpath=//input[@id='login-button']",
+  "loginError": "xpath=//h3[@data-test='error']"
+}

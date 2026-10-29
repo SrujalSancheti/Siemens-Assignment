@@ -1,0 +1,11 @@
+{
+  "firstNameField": "xpath=//input[@id='first-name']",
+  "lastNameField": "xpath=//input[@id='last-name']",
+  "postalCodeField": "xpath=//input[@id='postal-code']",
+  "continueButton": "xpath=//input[@id='continue']",
+  "checkoutOverviewTitle": "xpath=//span[@class='title']",
+  "checkoutSummary": "xpath=//div[@class='summary_info']",
+  "checkoutTotal": "xpath=//div[@class='summary_total_label']",
+  "finishButton": "xpath=//button[@id='finish']",
+  "confirmationHeader": "xpath=//h2[@class='complete-header']"
+}

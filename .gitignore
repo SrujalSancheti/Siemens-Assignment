@@ -1,0 +1,26 @@
+# Maven build output
+target/
+
+# Test reports, results, and screenshots
+test-output/
+test-results/
+allure-results/
+allure-report/
+.allure/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak

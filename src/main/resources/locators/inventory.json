@@ -1,0 +1,12 @@
+{
+  "inventoryPageTitle": "xpath=//span[@class='title']",
+  "productCount": "xpath=//div[@class='inventory_item']",
+  "productByName": "xpath=//div[@class='inventory_item']",
+  "addProductButton": "xpath=.//button[contains(@id,'add-to-cart')]",
+  "sortDropdown": "xpath=//select[@class='product_sort_container']",
+  "productPrices": "xpath=//div[@class='inventory_item_price']",
+  "cartLink": "xpath=//a[@class='shopping_cart_link']",
+  "cartBadge": "xpath=//span[@class='shopping_cart_badge']",
+  "menuButton": "xpath=//button[@id='react-burger-menu-btn']",
+  "logoutLink": "xpath=//a[@id='logout_sidebar_link']"
+}
